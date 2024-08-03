@@ -138,7 +138,7 @@ public class NotifyTheme {
      * @return The background colors to use in the theme (regular background and
      * highlighted gradient), stored in an array.
      */
-    public Color[] getBgGrad() {
+    public Color[] bgGrad() {
         return new Color[]{bgGrad[0], bgGrad[21]};
     }
 
